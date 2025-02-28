@@ -2253,7 +2253,7 @@ p {
 
 /* ============
    titles
-   ============ 
+   ============ */
 .title {
   position: relative;
   margin-bottom: 0.75rem;
@@ -2268,7 +2268,7 @@ p {
 }
 
 .title-container.default {
-  /* margin-bottom: $spacer 
+   margin-bottom: $spacer 
 }
 
 .title-default-text {
@@ -8594,7 +8594,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 .house .modulo-bg-page-title-image {
   display: none !important;
 }
-
+/* Remoção do Title
 .house-modules-title-and-itens .page-title-title-text {
   color: #EA559B;
 }
@@ -8604,7 +8604,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 .condo-detail .house-modules-title-group-bg {
   background-color: #f2f4f5;
 }
-
+*/
 .house-modules-title-and-itens .page-title-subtitle-text {
   color: #777b83;
 }
