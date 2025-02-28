@@ -1957,7 +1957,7 @@ img {
 }
 
 .bg-color2 {
-  background-color: #000000;
+  background-color: #188380;
 }
 .bg-color2.option {
   background-color: black;
@@ -3044,7 +3044,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 
 .pagination-btn.nav-atual {
   border-color: transparent;
-  background-color: #000000;
+  background-color: #188380;
   color: #fff;
 }
 
@@ -8289,7 +8289,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 .footer-p-social-btn-icon.whatsapp {
   padding-left: 1px;
-  background-color: #128C7E;
+  background-color: #188380;
   color: #fff;
 }
 
@@ -15658,7 +15658,7 @@ body.swal2-no-backdrop .swal2-shown.swal2-bottom-right {
    Who we are - Phrase
    ============ */
 .modulo-bg-phrase-efect {
-  background-color: #000000;
+  background-color: #188380;
 }
 
 .container.phrase {
