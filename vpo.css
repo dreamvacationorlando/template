@@ -2253,7 +2253,7 @@ p {
 
 /* ============
    titles
-   ============ */
+   ============ 
 .title {
   position: relative;
   margin-bottom: 0.75rem;
@@ -2268,7 +2268,7 @@ p {
 }
 
 .title-container.default {
-  /* margin-bottom: $spacer */
+  /* margin-bottom: $spacer 
 }
 
 .title-default-text {
