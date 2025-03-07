@@ -1935,7 +1935,7 @@ img {
    basic colors
    ============ */
 .bg-color1 {
-  background-color: #EA559B;
+  background-color: #1b7ecf;
 }
 .bg-color1.option {
   background-color: #b00d0d;
@@ -1967,7 +1967,7 @@ img {
 }
 
 .text-color1 {
-  color: #EA559B;
+  color: #1b7ecf;
 }
 .text-color1.option {
   color: #b00d0d;
@@ -2438,13 +2438,13 @@ button.swal2-styled {
   line-height: 1em;
   min-height: 3rem;
   font-weight: bold;
-  background-color: #EA559B;
+  background-color: #1b7ecf;
   color: #fff;
 }
 .btn:hover,
 .pick-submit:hover,
 button.swal2-styled:hover {
-  background-color: #EA559B;
+  background-color: #1b7ecf;
 }
 @media (max-width: 479px) {
   .btn,
@@ -2825,7 +2825,7 @@ textarea.input.select.active {
 .checkbox-bg-active,
 .radio-bg-active {
   z-index: 2;
-  background-color: #188380 !important;
+  background-color: #FCD107 !important;
 }
 
 input[type=checkbox] ~ .checkbox-icon,
@@ -3037,7 +3037,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 
 .pagination-btn.nav-atual {
   border-color: transparent;
-  background-color: #188380;
+  background-color: #FCD107;
   color: #fff;
 }
 
@@ -3141,7 +3141,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 .houses-list-nav-tabs-btn.w--current,
 .houses-list-nav-tabs-btn:hover {
   z-index: 10;
-  background-color: #EA559B;
+  background-color: #1b7ecf;
   color: #fff;
 }
 
@@ -3187,7 +3187,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   min-height: auto;
   align-items: center;
   padding-left: 0px;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 .read-more-btn.read-more-btn-less {
   display: none;
@@ -3983,7 +3983,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   margin-right: 6px;
   float: left;
   font-size: 0.875rem;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 .navbar-contact-icon.phone {
@@ -4154,7 +4154,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   opacity: 1;
 }
 .navbar-nav-btn:hover .navbar-nav-btn-bg {
-  background-color: #188380;
+  background-color: #FCD107;
 }
 
 .navbar-nav-btn-home-icon {
@@ -4238,7 +4238,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 .navbar-dropdown-btn.active {
   font-weight: bold;
-  color: #188380;
+  color: #FCD107;
 }
 .navbar-dropdown-btn.disabled {
   color: #c0c7d1;
@@ -4256,7 +4256,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   }
 }
 .navbar-dropdown-btn:hover {
-  color: #188380;
+  color: #FCD107;
 }
 
 .navbar-dropdown-btn-text {
@@ -4296,7 +4296,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   }
 }
 .navbar-toggler.w--open {
-  color: #EA559B;
+  color: #1b7ecf;
   background-color: transparent;
 }
 
@@ -5724,7 +5724,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   z-index: 6;
   display: flex;
   position: relative;
-  color: #EA559B;
+  color: #1b7ecf;
   padding: 1.5rem;
   padding-top: 0;
 }
@@ -6499,8 +6499,8 @@ input[type=radio]:checked ~ .checkbox-bg {
   align-items: center;
   justify-content: center;
   border-radius: 100%;
-  color: #EA559B;
-  background-color: #EA559B;
+  color: #1b7ecf;
+  background-color: #1b7ecf;
   color: #fff;
 }
 
@@ -6822,7 +6822,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   font-weight: bold;
   font-size: 18px;
   line-height: 24px;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 .review-subitem-title-text {
@@ -7051,7 +7051,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   margin-top: 3rem;
   margin-bottom: 3rem;
   padding: 0;
-  background-color: #188380;
+  background-color: #FCD107;
 }
 @media (min-width: 768px) {
   .modules.banner-small {
@@ -7112,7 +7112,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   display: none;
   z-index: -1;
   border-radius: 18px;
-  background-color: #188380;
+  background-color: #FCD107;
   opacity: 0.85;
 }
 
@@ -7687,7 +7687,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   margin-bottom: -10.5rem;
   margin-top: 3rem;
   z-index: 10;
-  background-color: #188380;
+  background-color: #FCD107;
   color: #fff;
 }
 
@@ -8362,7 +8362,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   color: #393b3f;
   display: flex;
   align-items: center;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 .page-title-content {
@@ -8382,7 +8382,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   font-family: "Poppins", sans-serif;
   letter-spacing: 0.4px;
   font-size: 2rem;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 .page-title-title-bg {
@@ -8548,7 +8548,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 
 .btn.house-hero-btn {
   background-color: #fff;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 .btn.house-hero-btn .btn-bg {
   display: none;
@@ -8596,7 +8596,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 /* Remoção do Title
 .house-modules-title-and-itens .page-title-title-text {
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 .house-modules-title-and-itens .page-title-title-bg,
@@ -9066,11 +9066,11 @@ input[type=radio]:checked ~ .checkbox-bg {
   font-weight: bold;
   font-size: 1rem;
   line-height: 1.6em;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 .title-default-text.price {
-  color: #EA559B;
+  color: #1b7ecf;
   font-size: 1.25rem;
 }
 
@@ -9084,7 +9084,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 
 .price-value-title {
   font-weight: bold;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 /* value big */
@@ -9104,7 +9104,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 .price-value-big-text-1 {
@@ -9466,7 +9466,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 .simple-itens-item-icon {
   margin-right: 0.75rem;
   font-size: 1rem;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 .condo-detail .simple-itens-item {
@@ -9525,7 +9525,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   display: inline-block;
   font-size: 1.25rem;
   float: left;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 .room-types-itens-icon-group {
@@ -9774,7 +9774,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   font-size: 1.25rem;
   margin: 0.75rem;
   align-items: center;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 @media (max-width: 479px) {
   .distances-item-text3-group {
@@ -9839,7 +9839,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   font-weight: bold;
   font-size: 0.875rem;
   line-height: 1.5em;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 .house-calendar-group .agenda {
   display: flex;
@@ -10047,7 +10047,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   bottom: 0px;
   z-index: 1;
   opacity: 1;
-  background-color: #188380;
+  background-color: #FCD107;
 }
 
 .container.phrase {
@@ -10204,7 +10204,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   padding: 1.2rem 1.875rem;
   box-shadow: 0px 0.225rem 1.2rem 0px rgba(0, 0, 0, 0.12);
   background-color: #fff;
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 .btn.faq-questions:hover {
@@ -11977,7 +11977,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 .cart2-info-valor.total {
   font-weight: bold;
-  color: #EA559B;
+  color: #1b7ecf;
   font-size: 1.5rem;
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
@@ -12292,7 +12292,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   float: right;
   margin-left: auto;
   margin-right: auto;
-  background-color: #EA559B;
+  background-color: #1b7ecf;
   color: #fff;
 }
 
@@ -12301,7 +12301,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 
 .pick-submit:hover {
-  background-color: #EA559B;
+  background-color: #1b7ecf;
 }
 
 /* --- days general --- */
@@ -12403,7 +12403,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 
 .pick-sl.range-end,
 .pick-sl.range-start {
-  background-color: #EA559B;
+  background-color: #1b7ecf;
   color: #fff;
 }
 .pick-sl.range-end span.label,
@@ -12413,7 +12413,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 
 .pick-sl.range-end:hover,
 .pick-sl.range-start:hover {
-  background-color: #EA559B !important;
+  background-color: #1b7ecf !important;
   color: #fff;
 }
 
@@ -12461,7 +12461,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 
 .pick.pick-y {
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 /* ---------------------------------- alert popup ---------------------------------- */
@@ -15471,7 +15471,7 @@ body.swal2-no-backdrop .swal2-shown.swal2-bottom-right {
    ============ */
 .nav-tabs-btn.w--current .nav-tabs-btn-bg,
 .nav-tabs-btn:hover .nav-tabs-btn-bg {
-  background-color: #EA559B;
+  background-color: #1b7ecf;
 }
 
 /* ============
@@ -15492,7 +15492,7 @@ body.swal2-no-backdrop .swal2-shown.swal2-bottom-right {
    ============ */
 .bloco-services-description-subtitle-text,
 .bloco-services-description-price-text.value {
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 /* ============
@@ -15515,21 +15515,21 @@ body.swal2-no-backdrop .swal2-shown.swal2-bottom-right {
 }
 
 .btn.cart-shopping-dropdown:hover {
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 /* ============
    FAQ
    ============ */
 .faq-questions-text {
-  color: #EA559B;
+  color: #1b7ecf;
 }
 
 /* ============
    Who we are - Phrase
    ============ */
 .modulo-bg-phrase-efect {
-  background-color: #188380;
+  background-color: #FCD107;
 }
 
 .container.phrase {
