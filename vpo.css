@@ -3800,7 +3800,7 @@ input[type=radio]:checked ~ .checkbox-bg {
   position: relative;
   align-items: center;
   transition: all 300ms ease;
-  height: 80px;
+  height: 100px;
   justify-content: center;
   flex-shrink: 0;
   margin-right: 0.75rem;
@@ -3808,7 +3808,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 @media (max-width: 991px) {
   .navbar-brand {
-    height: 64px;
+    height: 80px;
   }
 }
 
@@ -4393,7 +4393,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 .navbar-small .navbar-brand {
   padding-bottom: 0.6rem;
   padding-top: 0.6rem;
-  height: 56px;
+  height: 80px;
 }
 
 .navbar-small .navbar-header-group {
