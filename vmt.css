@@ -3808,7 +3808,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 @media (max-width: 991px) {
   .navbar-brand {
-    height: 64px;
+    height: 80px;
   }
 }
 
@@ -4393,7 +4393,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 .navbar-small .navbar-brand {
   padding-bottom: 0.6rem;
   padding-top: 0.6rem;
-  height: 56px;
+  height: 70px;
 }
 
 .navbar-small .navbar-header-group {
@@ -4401,7 +4401,7 @@ input[type=radio]:checked ~ .checkbox-bg {
 }
 
 .navbar-small .navbar-header {
-  height: 56px;
+  height: 70px;
 }
 
 .navbar-small .navbar-nav-brand-space {
