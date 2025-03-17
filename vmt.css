@@ -15662,3 +15662,9 @@ body.swal2-no-backdrop .swal2-shown.swal2-bottom-right {
   font-weight: 400;
   font-style: normal;
 }
+/* ============
+   Logo Height
+   ============ */
+.w-nav-brand img {
+  height: 80px; /* Defina a altura desejada aqui (ex: 80px) */
+}
